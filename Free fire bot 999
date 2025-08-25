@@ -1,0 +1,15 @@
+index.js
+package.json
+{
+  "name": "freefire-bot-parca-999",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp para el clan Free Fire La Parca 999",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.21.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
